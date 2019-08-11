@@ -46,7 +46,7 @@ JavaScript 程序可以使用 `<script>` 标签插入到 HTML 的任何地方。
 
 `type` 属性：<code>&lt;script <u>type</u>=...&gt;</code>
 
-: 在老的 HTML4 标准中，`<script>` 标签有 type 属性。通常是 `type="text/javascript"`。这样的属性声明以及不再需要。而且，现代 HTML 标准 —— HTML5 已经完全改变了此属性的实际含义。现在，该属性可以被用于 JavaScript 模块。但那是一个高级一点的话题，我们将会在此教程的另外章节中叙述模块。
+: 在老的 HTML4 标准中，`<script>` 标签有 type 属性。通常是 `type="text/javascript"`。这样的属性声明已经不再需要。而且，现代 HTML 标准 —— HTML5 已经完全改变了此属性的实际含义。现在，该属性可以被用于 JavaScript 模块。但那是一个高级一点的话题，我们将会在此教程的另外章节中叙述模块。
 
 `language` 属性：<code>&lt;script <u>language</u>=...&gt;</code>
 : 这个属性是为了显示脚本使用的语言。这个属性已没有任何意义，因为语言默认就是 JavaScript。不再需要使用它了。
